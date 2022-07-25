@@ -48,8 +48,8 @@ Por favor, leia o COLABORACAO.md para obter detalhes sobre o nosso código de co
 Nós usamos SemVer para controle de versão. Para as versões disponíveis, observe as tags neste repositório.
 
 ✒️ Autores
-marcos o lindão
-Livia cabeça de gelo
+Marcos André
+Livia vitória
 
 Um desenvolvedor - Trabalho Inicial - umdesenvolvedor
 Fulano De Tal - Documentação - fulanodetal
