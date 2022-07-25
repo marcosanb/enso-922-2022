@@ -60,6 +60,6 @@ Este projeto está sob a licença (sua licença) - veja o arquivo LICENSE.md par
 
 🎁 Expressões de gratidão
 Conte a outras pessoas sobre este projeto 📢
-Convide alguém da equipe para uma cerveja 🍺
+Convide alguém da equipe para tomar um sorvete 🍨
 Obrigado publicamente 🤓.
 etc.
